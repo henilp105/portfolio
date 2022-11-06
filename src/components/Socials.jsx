@@ -25,7 +25,7 @@ function Socials() {
         <li>
           <a
             className="socials-link"
-            href=""
+            href="https://drive.google.com/file/d/1SIvm0dRisEhO-MLw-Qn65wKpf9ecOpfL/view?usp=share_link) ,[Linkedin](https://www.linkedin.com/in/henil-panchal-9261b4228/"
           >
             <AttachmentIcon />
           </a>
